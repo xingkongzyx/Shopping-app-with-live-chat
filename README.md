@@ -7,4 +7,4 @@
 ### Technologies: NoedJS
 
 =
-### [Live demo]: (https://yz-e-commerce-app.herokuapp.com/)
+### [Live demo]: (https://yz-shopping-chat-app.herokuapp.com/)
